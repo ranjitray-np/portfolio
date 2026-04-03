@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.CXBuSdYp.mjs";function t(e,t){return{description:`Showcase my works done for clients all over the world.`,favicon:`images/jKW0DDmMBoPI6nQAzDtz6lL0Uh8_75.png`,robots:`max-image-preview:large`,title:`Ranjit Ray | Video Editor`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=siteMetadata.CokRqxzp.mjs.map
